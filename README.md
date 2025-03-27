@@ -15,6 +15,6 @@ Trabajar en el mundo del desarrollo web me exigió mantenerme constantemente act
 
 Actualmente trabajo de forma independiente, lo cual me da mayor flexibilidad para organizar mis tiempos y poder enfocarme en los estudios universitarios.
 
-Mi primer acercamiento real a la programación fue alrededor de los 15 o 16 años, cuando desarrollé una versión del juego **Arkanoid** como trabajo final del colegio. Lo programé en Visual Basic, y uno de los mayores desafíos fue calcular los rebotes de las “bolitas”. En aquella época no existía el acceso a Internet como lo conocemos hoy, así que tuve que resolverlo junto a mi profesor, quien también investigaba para poder orientarme.
+Mi primer acercamiento a la programación fue alrededor de los 16 años, cuando desarrollé una versión del juego **Arkanoid** como trabajo final de una materia del colegio. Lo programé en Visual Basic, y uno de los mayores desafíos fue calcular los rebotes de las “bolitas”. En aquella época no existía el acceso a Internet como lo conocemos hoy, así que tuve que resolverlo junto a mi profesor, quien también investigaba para poder orientarme.
 
-Además de la tecnología, tengo otras pasiones: la música, los juegos de mesa y de cartas (jugué varios años al Magic), el cine, el arte en general y la fotografía. Esta última me permite expresarme de una forma distinta, capturando momentos, emociones y detalles que muchas veces pasan desapercibidos.
+Además de la tecnología, tengo otras pasiones, disfruto mucho la música, los juegos de mesa y de cartas (jugué varios años al Magic), el cine, el arte en general. La fotografía, es la unica que me permite expresarme de una forma distinta, capturando momentos, emociones y detalles.
