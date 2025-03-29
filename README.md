@@ -1,6 +1,7 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
 # Programación con objetos I
+
 ## Presentación Personal
 
 ### Carla Andrea Perez
@@ -18,3 +19,5 @@ Actualmente trabajo de forma independiente, lo cual me da mayor flexibilidad par
 Mi primer acercamiento a la programación fue alrededor de los 16 años, cuando desarrollé una versión del juego **Arkanoid** como trabajo final de una materia del colegio. Lo programé en Visual Basic, y uno de los mayores desafíos fue calcular los rebotes de las “bolitas”. En aquella época no existía el acceso a Internet como lo conocemos hoy, así que tuve que resolverlo junto a mi profesor, quien también investigaba para poder orientarme.
 
 Además de la tecnología, tengo otras pasiones, disfruto mucho la música, los juegos de mesa y de cartas (jugué varios años al Magic), el cine, el arte en general. La fotografía, es la unica que me permite expresarme de una forma distinta, capturando momentos, emociones y detalles.
+
+![Logo UNAHUR](./assets/carlaAndreaPerez.jpeg)
